@@ -10,7 +10,7 @@ spring:
           search-paths: config-data
           username: ${GIT_USER}
           password: ${GIT_PASSWORD}
-      enabled: false
+      #enabled: false
 
   security:
     user:
